@@ -1,0 +1,18 @@
+{
+  "name": "rvapp",
+  "version": "1.0.0",
+  "description": "rv app with ionic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rv",
+    "app"
+  ],
+  "author": "seanl",
+  "license": "ISC",
+  "devDependencies": {
+    "cordova": "^6.3.0"
+  }
+}
